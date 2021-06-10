@@ -1,0 +1,12 @@
+{
+  "person": {
+    "name":"Paul",
+    "surname":"Paulsen",
+    "salutation":"Mr"
+  },
+  "person": {
+    "name":"Paulina",
+    "surname":"Mueller",
+    "salutation":"Mrs"
+  }
+}
